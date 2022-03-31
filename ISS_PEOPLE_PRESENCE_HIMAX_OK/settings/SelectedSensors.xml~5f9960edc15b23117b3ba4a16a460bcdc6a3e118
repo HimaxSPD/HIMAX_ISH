@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sensors>
+     <Sensor Flags="2" ModelId="258" ModelName="HM01B0" ObjectType="Physical" OemProjectVersion="0.0.0.1" Owner="User" SensorFileName="himax_biometric_human_detection_himax" SensorName="HIMAX_BIOMETRIC_HUMAN_DETECTION_HIMAX" SensorTypeId="32769" VendorId="29"/>
+     <Sensor Flags="128" ModelId="258" ModelName="" ObjectType="Virtual" OemProjectVersion="0.0.0.1" Owner="User" SensorFileName="himax_intel_biometric_human_detection" SensorName="HIMAX_INTEL_BIOMETRIC_HUMAN_DETECTION" SensorTypeId="550" VendorId="258"/>
+     <Sensor Flags="1" ModelId="1" ModelName="Human Presence Sensor" ObjectType="Virtual" OemProjectVersion="5.4.2.4564" Owner="Intel" SensorFileName="human_presence_standard_init" SensorName="human_presence_standard" SensorTypeId="17" VendorId="0"/>
+</Sensors>

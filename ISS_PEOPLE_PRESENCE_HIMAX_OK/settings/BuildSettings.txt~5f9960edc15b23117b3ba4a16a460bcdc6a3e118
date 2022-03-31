@@ -1,0 +1,16 @@
+2022-03-31 13:19:36.644
+user:himax_biometric_human_detection_himax
+userMD:c:/users/hx-rich_chen/documents/fdk_workspace/iss_people_presence_himax_ok/himax_biometric_human_detection_himax/bin/adl/Debug/obj/himax_biometric_human_detection_himax.o
+user:himax_intel_biometric_human_detection
+userMD:c:/users/hx-rich_chen/documents/fdk_workspace/iss_people_presence_himax_ok/himax_intel_biometric_human_detection/bin/adl/Debug/obj/himax_intel_biometric_human_detection_init.o
+otherLuid:0x001100000001**01
+otherMD:C:\Intel_ISS_FDK\Tools\EclipsePlugin\FDKTools/versions/ADL/5.4.2.4564/algorithms/human_presence_standard_init.o
+symbol: -DVER_FDK=14551
+uninplementTodo:HIMAX_BIOMETRIC_HUMAN_DETECTION_HIMAX\src\himax_biometric_human_detection_himax.c 27 
+uninplementTodo:HIMAX_BIOMETRIC_HUMAN_DETECTION_HIMAX\src\himax_biometric_human_detection_himax.c 161 
+uninplementTodo:HIMAX_BIOMETRIC_HUMAN_DETECTION_HIMAX\src\himax_biometric_human_detection_himax.c 202 
+uninplementTodo:HIMAX_BIOMETRIC_HUMAN_DETECTION_HIMAX\src\himax_biometric_human_detection_himax.c 242 
+uninplementTodo:HIMAX_BIOMETRIC_HUMAN_DETECTION_HIMAX\src\himax_biometric_human_detection_himax.c 307 
+uninplementTodo:HIMAX_BIOMETRIC_HUMAN_DETECTION_HIMAX\src\himax_biometric_human_detection_himax.c 404 
+version:ADL
+firmware:5.4.2.4564

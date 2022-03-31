@@ -1,0 +1,4 @@
+//org.eclipse.ui.commands/state/com.intel.ishfdk.commands.BuildConfiguration/org.eclipse.ui.commands.radioState=Debug
+//org.eclipse.ui.commands/state/com.intel.ishfdk.commands.ExecutionEnv/org.eclipse.ui.commands.radioState=SILICON
+//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+eclipse.preferences.version=1
